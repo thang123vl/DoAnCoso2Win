@@ -1,0 +1,48 @@
+[03/11/2024 19:56:25] Error during Tạo mã NCC:
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------
+[03/11/2024 19:56:29] Error during Tạo mã NCC:
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------
+[03/11/2024 19:56:38] Error during Tạo mã NCC:
+Message: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+Stack Trace:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------
+[03/11/2024 19:58:11] Error during Tạo mã NCC:
+Message: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+Stack Trace:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------
+[03/11/2024 19:58:15] Error during Tạo mã NCC:
+Message: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+Stack Trace:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------
+[03/11/2024 19:58:46] Error during Tạo mã NCC:
+Message: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+Stack Trace:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex)
+   at DoAn2.UserDB.US_NhaCungCap.<GenerateMaNCC>b__14_0() in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 179
+   at DoAn2.UserDB.US_NhaCungCap.SafeExecute(Action action, String operation) in D:\DoAn2\DoAn2\UserDB\US_NhaCungCap.cs:line 232
+--------------------------------------------------------------------------------

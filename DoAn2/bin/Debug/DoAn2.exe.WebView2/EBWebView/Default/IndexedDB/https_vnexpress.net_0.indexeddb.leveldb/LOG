@@ -1,0 +1,14 @@
+2024/11/28-12:00:48.686 da8 Reusing MANIFEST D:\DoAn2\DoAn2\bin\Debug\DoAn2.exe.WebView2\EBWebView\Default\IndexedDB\https_vnexpress.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-12:00:48.686 da8 Recovering log #216
+2024/11/28-12:00:48.686 da8 Reusing old log D:\DoAn2\DoAn2\bin\Debug\DoAn2.exe.WebView2\EBWebView\Default\IndexedDB\https_vnexpress.net_0.indexeddb.leveldb/000216.log 
+2024/11/28-12:00:48.686 da8 Delete type=2 #214
+2024/11/28-12:00:48.707 4af8 Level-0 table #221: started
+2024/11/28-12:00:48.708 4af8 Level-0 table #221: 641 bytes OK
+2024/11/28-12:00:48.709 4af8 Delete type=0 #216
+2024/11/28-12:00:48.709 5f7c Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at '\x00H\x00\x00\x05' @ 2016 : 1
+2024/11/28-12:00:48.709 5f7c Compacting 1@0 + 1@1 files
+2024/11/28-12:00:48.710 5f7c Generated table #222@0: 188 keys, 5761 bytes
+2024/11/28-12:00:48.710 5f7c Compacted 1@0 + 1@1 files => 5761 bytes
+2024/11/28-12:00:48.710 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-12:00:48.710 5f7c Delete type=2 #221
+2024/11/28-12:00:48.711 5f7c Manual compaction at level-0 from '\x00H\x00\x00\x05' @ 2016 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
